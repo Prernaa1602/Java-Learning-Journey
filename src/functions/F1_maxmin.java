@@ -34,5 +34,6 @@ public class F1_maxmin {
             min= c;
         }
         return min;
+
     }
 }
